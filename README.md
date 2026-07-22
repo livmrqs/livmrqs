@@ -1,52 +1,118 @@
+<div align="center">
+
 # 👋 Hi, I'm Lívia Marques
 
-🎓 Engineering student  
-📊 Data & Machine Learning enthusiast  
-☁️ Cloud & Data Engineering learner  
+###  Engineering Student •  Data Science •  Machine Learning •  Cloud Computing
+
+<p>
+Passionate about transforming data into intelligent solutions through Artificial Intelligence,
+Machine Learning and Cloud technologies.
+<br>
+Currently building real-world projects while continuously learning and exploring new technologies.
+</p>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-![Livia's GitHub stats](https://github-readme-stats.vercel.app/api?username=livmrqs&show_icons=true&count_private=true)
+🎓 Engineering Student
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livmrqs&layout=compact)
+📊 Passionate about Data Science & Analytics
 
----
+🤖 Machine Learning Enthusiast
 
-## 🛠️ Tech Stack
+☁️ Learning AWS & Cloud Computing
 
-### 👩‍💻 Programming & Machine Learning
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
-</p>
+📈 Exploring Data Engineering & MLOps
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-</p>
-
-### 🔧 Tools & Version Control
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-</p>
+🌱 Always learning, always building.
 
 ---
 
-## 🌎 Connect with Me
+# 💻 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADvia-marques04/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/livmrqs_/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviamarquesrr@gmail.com)
+## 👨‍💻 Programming
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+## 📊 Data Science & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+## 🛠️ Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-⭐ Always learning. Always building.
+# 📚 Currently Learning
+
+- Machine Learning
+- Data Engineering
+- AWS Cloud
+- Docker
+- MLOps
+- Artificial Intelligence
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=livmrqs&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/l%C3%ADvia-marques04/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:liviamarquesrr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/livmrqs_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Transforming data into intelligent solutions."*
+
+</div>
