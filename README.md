@@ -2,13 +2,12 @@
 
 # 👋 Hi, I'm Lívia Marques
 
-###  Engineering Student •  Data Science •  Machine Learning •  Cloud Computing
+### Data Engineering • AI Engineering • Cloud Computing
 
 <p>
-Passionate about transforming data into intelligent solutions through Artificial Intelligence,
-Machine Learning and Cloud technologies.
+Engineering student focused on building scalable data solutions, modern data architectures and intelligent systems.
 <br>
-Currently building real-world projects while continuously learning and exploring new technologies.
+Currently deepening my knowledge in Data Engineering, Lakehouse architectures, distributed processing and cloud technologies.
 </p>
 
 </div>
@@ -19,69 +18,71 @@ Currently building real-world projects while continuously learning and exploring
 
 🎓 Engineering Student
 
-📊 Passionate about Data Science & Analytics
+🔧 Focused on **Data Engineering & Data Platforms**
 
-🤖 Machine Learning Enthusiast
+🐍 Working with **Python, SQL and PySpark**
 
-☁️ Learning AWS & Cloud Computing
+🏗️ Exploring **Lakehouse architectures, Databricks and distributed data processing**
 
-📈 Exploring Data Engineering & MLOps
+☁️ Experience with **AWS, cloud services and Infrastructure as Code**
 
-🌱 Always learning, always building.
+📦 Interested in **data pipelines, ETL/ELT and data modeling**
+
+🤖 Exploring the intersection between **Data Engineering and Agentic AI**
+
+🌱 Always learning and building practical projects.
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming
+## 👨‍💻 Programming & Data Processing
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
-
-## 📊 Data Science & Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
-</p>
-
-## ☁️ Cloud & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
-</p>
-
-## 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-## 🛠️ Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Python • SQL • PySpark • Pandas • NumPy**
 
 ---
 
-# 📚 Currently Learning
+## 🏗️ Data Engineering
 
-- Machine Learning
-- Data Engineering
-- AWS Cloud
-- Docker
-- MLOps
-- Artificial Intelligence
+**Apache Spark • Databricks • Delta Lake • Lakehouse Architecture • ETL/ELT • Data Pipelines • Data Modeling**
+
+Currently studying:
+
+**Apache Iceberg • Apache Airflow**
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+**AWS • Terraform • HCL • Docker • Linux**
+
+---
+
+## 🗄️ Databases & Data Formats
+
+
+**SQL • Relational Databases • JSON • Structured, Semi-structured and Unstructured Data**
+
+---
+
+## 🤖 AI & Intelligent Systems
+
+**Machine Learning • Computer Vision • LLMs • RAG • AI Agents**
+
+Exploring:
+
+**LangChain • LangGraph • Agentic AI**
+
+---
+
+## 🛠️ Development Tools
+
+**Git • GitHub • VS Code • Jupyter**
+
 
 ---
 
 # 📈 GitHub Analytics
-
-<div align="center">
 
 <div align="center">
 
@@ -113,6 +114,6 @@ Currently building real-world projects while continuously learning and exploring
 
 <div align="center">
 
-### ⭐ *"Transforming data into intelligent solutions."*
+### ⭐ *Building scalable data solutions powered by Cloud and AI.*
 
 </div>
